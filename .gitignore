@@ -1,0 +1,26 @@
+# Dependencies
+eWarrants/node_modules
+server/node_modules
+
+# Environment Variables
+eWarrants/.env
+server/.env
+
+# Build Output
+eWarrants/dist
+eWarrants/build
+server/dist
+server/build
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS & Editor Files
+.DS_Store
+.vscode/
+Thumbs.db
+
+eWarrants/.gitignore
